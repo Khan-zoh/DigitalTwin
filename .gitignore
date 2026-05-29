@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/seed/*.csv
+data/output/
+*.duckdb
+*.duckdb.wal
+.DS_Store
+.ipynb_checkpoints/
